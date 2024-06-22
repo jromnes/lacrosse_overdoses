@@ -1,0 +1,46 @@
+Year,County,Agency_Name,Metric,Drug_Sale_Opium_Cocaine,Drug_Sale_Marijuana,Drug_Sale_Synthetic,Drug_Sale_Other_Dangerous,Drug_Possession_Opium_Cocaine,Drug_Possession_Marijuana,Drug_Possession_Synthetic,Drug_Possession_Other_Dangerous,Drug_Unknown
+2018,La Crosse,Bangor PD,Arrest Count,0,0,0,0,0,3,0,1,0
+2018,La Crosse,Campbell PD,Arrest Count,0,0,0,4,2,11,0,5,0
+2018,La Crosse,Holmen PD,Arrest Count,0,0,0,0,0,25,0,7,0
+2018,La Crosse,La Crosse Co SO,Arrest Count,6,0,0,0,12,61,1,33,1
+2018,La Crosse,La Crosse PD,Arrest Count,38,8,0,27,71,312,16,216,0
+2018,La Crosse,Onalaska PD,Arrest Count,0,2,1,0,3,37,5,26,0
+2018,La Crosse,UW-La Crosse PD,Arrest Count,0,0,0,0,1,71,1,0,0
+2018,La Crosse,West Salem PD,Arrest Count,0,0,0,0,2,6,5,1,0
+2018,La Crosse,Total,Arrest Count,44,10,1,31,91,526,28,289,1
+2019,La Crosse,Bangor PD,Arrest Count,0,0,0,0,0,1,0,0,0
+2019,La Crosse,Campbell PD,Arrest Count,1,0,0,2,2,9,0,11,0
+2019,La Crosse,Holmen PD,Arrest Count,0,2,0,2,1,33,1,25,0
+2019,La Crosse,La Crosse Co SO,Arrest Count,6,0,0,5,9,35,2,20,1
+2019,La Crosse,La Crosse PD,Arrest Count,22,2,1,18,105,292,5,170,1
+2019,La Crosse,Onalaska PD,Arrest Count,3,1,0,1,10,26,4,20,0
+2019,La Crosse,UW-La Crosse PD,Arrest Count,0,0,0,0,1,59,1,3,0
+2019,La Crosse,West Salem PD,Arrest Count,0,0,0,0,2,16,0,11,0
+2019,La Crosse,Total,Arrest Count,32,5,1,28,130,471,13,260,2
+2020,La Crosse,Bangor PD,Arrest Count,0,0,0,0,0,0,0,0,0
+2020,La Crosse,Campbell PD,Arrest Count,0,1,0,0,4,6,1,14,0
+2020,La Crosse,Holmen PD,Arrest Count,0,0,0,0,5,17,1,8,0
+2020,La Crosse,La Crosse Co SO,Arrest Count,0,0,0,2,3,16,1,22,0
+2020,La Crosse,La Crosse PD,Arrest Count,12,3,2,33,85,161,7,129,1
+2020,La Crosse,Onalaska PD,Arrest Count,0,0,0,4,1,18,0,21,0
+2020,La Crosse,UW-La Crosse PD,Arrest Count,0,0,0,0,0,53,1,1,0
+2020,La Crosse,West Salem PD,Arrest Count,0,0,0,0,1,17,1,5,0
+2020,La Crosse,Total,Arrest Count,12,4,2,39,99,288,12,200,1
+2021,La Crosse,Bangor PD,Arrest Count,0,0,0,0,0,3,0,1,0
+2021,La Crosse,Campbell PD,Arrest Count,1,0,1,1,4,5,1,5,0
+2021,La Crosse,Holmen PD,Arrest Count,2,0,0,1,1,24,0,2,0
+2021,La Crosse,La Crosse Co SO,Arrest Count,3,0,0,2,7,22,0,19,1
+2021,La Crosse,La Crosse PD,Arrest Count,7,4,9,20,71,139,5,111,2
+2021,La Crosse,Onalaska PD,Arrest Count,1,0,0,1,3,12,0,20,0
+2021,La Crosse,UW-La Crosse PD,Arrest Count,0,0,0,0,0,32,0,0,0
+2021,La Crosse,West Salem PD,Arrest Count,0,0,0,0,3,23,0,17,0
+2021,La Crosse,Total,Arrest Count,14,4,10,25,89,260,6,175,3
+2022,La Crosse,Bangor PD,Arrest Count,0,0,0,0,0,8,0,0,0
+2022,La Crosse,Campbell PD,Arrest Count,0,0,0,3,5,5,1,11,0
+2022,La Crosse,Holmen PD,Arrest Count,1,3,0,0,3,23,0,4,0
+2022,La Crosse,La Crosse Co SO,Arrest Count,0,0,1,0,2,10,1,11,0
+2022,La Crosse,La Crosse PD,Arrest Count,7,2,6,18,44,181,12,106,0
+2022,La Crosse,Onalaska PD,Arrest Count,3,2,0,1,4,22,3,19,0
+2022,La Crosse,UW-La Crosse PD,Arrest Count,0,0,0,0,0,3,0,0,0
+2022,La Crosse,West Salem PD,Arrest Count,0,0,0,0,0,17,3,7,0
+2022,La Crosse,Total,Arrest Count,11,7,7,22,58,269,20,158,0

@@ -1,0 +1,14 @@
+Age,Gender,Type,Alcohol,Heroin,Methamphetamine,Cocaine,RX,Opioids,THC,Fentanyl
+56,Female,Accidental,1.0,0.0,0.0,0.0,1.0,0,0,0.0
+57,Male,Accidental,0.0,0.0,0.0,0.0,1.0,0,0,0.0
+28,Male,Accidental,0.0,1.0,0.0,0.0,0.0,1,0,1.0
+50,Male,Accidental,0.0,0.0,0.0,1.0,1.0,0,0,0.0
+40,Male,Accidental,1.0,1.0,0.0,1.0,1.0,1,1,1.0
+23,Male,Accidental,0.0,1.0,1.0,1.0,0.0,1,0,0.0
+47,Female,Accidental,1.0,0.0,0.0,0.0,1.0,0,0,0.0
+22,Male,Accidental,0.0,1.0,0.0,1.0,0.0,1,1,0.0
+24,Male,Accidental,0.0,1.0,1.0,0.0,0.0,1,1,1.0
+40,Male,Accidental,0.0,0.0,1.0,1.0,1.0,0,0,0.0
+46,Male,Accidental,1.0,0.0,0.0,1.0,1.0,0,0,0.0
+57,Male,Accidental,0.0,0.0,0.0,0.0,1.0,0,0,0.0
+24,Male,Accidental,1.0,0.0,0.0,0.0,1.0,0,1,0.0
